@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root class=" FB_FW_ext Bco">
+    <location>Minks</location>
+    <name>Super duper news</name>
+    <news>
+        <element>
+            <date>2014-10-25 12:35:00 +0300</date>
+            <description>An initiative between Apple, IBM and Japan Post Holdings could put iPads in the hands of up to 5 million members of Japan's elderly population.</description>
+            <id>0</id>
+            <keywords>
+                <element>apple</element>
+                <element>ibm</element>
+            </keywords>
+            <title>Apple, IBM to bring iPads to 5 million Japanese seniors</title>
+            <visible>true</visible>
+        </element>
+        <element>
+            <date>2014-03-04 22:17:00 +0300</date>
+            <description>Google today released a new extension for its Chrome browser that aims to improve Google account security for consumers and enterprise customers. The Password Alert extension discourages people from reusing their Google passwords on other sites and notifies them of potential phishing attacks. In other words, Google wants to help you help yourself.</description>
+            <id>1</id>
+            <keywords>
+                <element>google</element>
+            </keywords>
+            <title>New Chrome extension aims to protect Google passwords, foil phishers</title>
+            <visible>true</visible>
+        </element>
+        <element>
+            <date>2014-04-10 17:30:00 +0200</date>
+            <description>BMW this week showed off prototype augmented reality (AR) glasses designed to improve and enhance the driving experience in its fleet of MINI vehicles at the Auto Shanghai 2015 show in China. BMW's MINI subsidiary announced the concept smartglasses earlier this month, but it hadn't publicly demonstrated the device until this week.</description>
+            <id>2</id>
+            <keywords>
+                <element>bmw</element>
+            </keywords>
+            <title>BMW does in-car augmented reality</title>
+            <visible>true</visible>
+        </element>
+        <element>
+            <date>2014-02-12 10:00:00 +0300</date>
+            <description>No one is going to buy an Apple Watch just to replace their (much cheaper) fitness tracker, but if you shell out $350+ for Apple's latest device, it needs to perform better than a Fitbit, Jawbone, or Basis Peak. Who's going to strap two bands to their wrist to count steps? Fortunately the Apple Watch isn't just a capable health and fitness band: It's downright amazing, though, like every other facet of the watch, it has room for improvement.</description>
+            <id>3</id>
+            <keywords>
+                <element>apple</element>
+            </keywords>
+            <title>Apple Watch as fitness tracker: Putting Activity and Workout through their paces</title>
+            <visible>true</visible>
+        </element>
+        <element>
+            <date>2014-03-30 22:20:00 +0300</date>
+            <description>Microsoft will soon offer three additional ways for enterprises to store data on Azure, making the cloud computing platform more supportive of big data analysis.</description>
+            <id>4</id>
+            <keywords>
+                <element>microsoft</element>
+                <element>azure</element>
+            </keywords>
+            <title>Microsoft to offer three new ways to store big data on Azure</title>
+            <visible>true</visible>
+        </element>
+        <element>
+            <date>2014-05-01 11:15:00 +0300</date>
+            <description>Microsoft is supporting cross-platform development like never before, introducing tools to port iOS and Android apps to Windows and allow software to run across multiple form factors, from smart phones to virtual reality headsets</description>
+            <id>5</id>
+            <keywords>
+                <element>microsoft</element>
+            </keywords>
+            <title>Microsoft helps developers gear Windows 10 for the post-PC era</title>
+            <visible>true</visible>
+        </element>
+    </news>
+</root>
